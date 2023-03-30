@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: mlops-churn-api
+description: Chart to configure ArgoCD with the mlops-churn-api project and its applications
